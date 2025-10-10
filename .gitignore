@@ -18,3 +18,9 @@ venv/
 
 # OS
 .DS_Store
+
+# Tutorials
+tutorials
+data/tutorials
+figs/tutorials
+notebooks/tutorials
