@@ -20,7 +20,7 @@ venv/
 .DS_Store
 
 # Tutorials
-tutorials
-data/tutorials
-figs/tutorials
-notebooks/tutorials
+#tutorials
+#data/tutorials
+#figs/tutorials
+#notebooks/tutorials
